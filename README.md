@@ -1,2 +1,2 @@
 # sorting
-different sorting algorithms
+contains different sorting algorithms
